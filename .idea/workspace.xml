@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eee8726-ca6d-4bf1-a43d-d852dc97f712" name="Changes" comment="Chapter 3 Learning Material.">
+    <list default="true" id="1eee8726-ca6d-4bf1-a43d-d852dc97f712" name="Changes" comment="Experiment 3 Effective Use of the Memory Subsystem.">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section1/Day1_Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AC_CUDA_Python_1.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/section1/AC_CUDA_Python_1.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction+to+CUDA+Python+with+Numba (2).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/section1/Introduction+to+CUDA+Python+with+Numba (2).ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +48,11 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Mihir\Accelerating Computing With Cuda Python\Section1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,13 +92,22 @@
       <option name="project" value="LOCAL" />
       <updated>1777626415607</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Experiment 3 Effective Use of the Memory Subsystem.">
+      <option name="closed" value="true" />
+      <created>1777635038153</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1777635038153</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Learning Material (PPT)" />
     <MESSAGE value="Code Files And Jupyter Files." />
     <MESSAGE value="Chapter 3 Learning Material." />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 3 Learning Material." />
+    <MESSAGE value="Experiment 3 Effective Use of the Memory Subsystem." />
+    <option name="LAST_COMMIT_MESSAGE" value="Experiment 3 Effective Use of the Memory Subsystem." />
   </component>
 </project>
