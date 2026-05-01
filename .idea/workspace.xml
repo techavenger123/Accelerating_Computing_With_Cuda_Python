@@ -1,46 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eee8726-ca6d-4bf1-a43d-d852dc97f712" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Accelerating Computing With Cuda Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Introduction to CUDA Python with Numba-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_CUDA_Python_1.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_CUDA_Python_2.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Custom+CUDA+Kernels+in+Python+with+Numba (1).ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Custom+CUDA+Kernels+in+Python+with+Numba.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction to CUDA Python with Numba.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction+to+CUDA+Python+with+Numba (1).ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction+to+CUDA+Python+with+Numba (2).ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction+to+CUDA+Python+with+Numba.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/DLI Header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/numba_flowchart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/run_the_assessment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section2/.ipynb_checkpoints/Custom CUDA Kernels in Python with Numba-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section2/Custom CUDA Kernels in Python with Numba.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section2/assessment/histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section2/debug/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section2/debug/ex1a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section2/debug/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section2/debug/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section2/debug/ex3a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section2/images/DLI Header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section2/images/run_the_assessment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section2/img/numba_flowchart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section2/img/sensor_humidity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section2/img/sensor_temp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section2/solutions/hypot_stride_solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section2/solutions/monte_carlo_pi_solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section2/solutions/square_device_solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/make_pulses_solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/monte_carlo_pi_solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/zero_suppress_solution.py" afterDir="false" />
+    <list default="true" id="1eee8726-ca6d-4bf1-a43d-d852dc97f712" name="Changes" comment="Chapter 3 Learning Material.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "techavenger123"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/techavenger123/Accelerating_Computing_With_Cuda_Python.git",
+    "accountId": "e6580030-06c1-4ac8-ba14-6724ebda7901"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -82,6 +59,37 @@
       <option name="presentableId" value="Default" />
       <updated>1777625168816</updated>
     </task>
+    <task id="LOCAL-00001" summary="Learning Material (PPT)">
+      <option name="closed" value="true" />
+      <created>1777625637023</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1777625637023</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Code Files And Jupyter Files.">
+      <option name="closed" value="true" />
+      <created>1777625742454</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777625742454</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Chapter 3 Learning Material.">
+      <option name="closed" value="true" />
+      <created>1777626415607</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777626415607</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Learning Material (PPT)" />
+    <MESSAGE value="Code Files And Jupyter Files." />
+    <MESSAGE value="Chapter 3 Learning Material." />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 3 Learning Material." />
   </component>
 </project>
